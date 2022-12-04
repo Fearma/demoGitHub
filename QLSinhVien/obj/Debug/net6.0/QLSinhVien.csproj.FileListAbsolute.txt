@@ -1,0 +1,15 @@
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\bin\Debug\net6.0\QLSinhVien.exe
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\bin\Debug\net6.0\QLSinhVien.deps.json
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\bin\Debug\net6.0\QLSinhVien.runtimeconfig.json
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\bin\Debug\net6.0\QLSinhVien.dll
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\bin\Debug\net6.0\QLSinhVien.pdb
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\QLSinhVien.csproj.AssemblyReference.cache
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\QLSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\QLSinhVien.AssemblyInfoInputs.cache
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\QLSinhVien.AssemblyInfo.cs
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\QLSinhVien.dll
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\refint\QLSinhVien.dll
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\QLSinhVien.pdb
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\QLSinhVien.genruntimeconfig.cache
+C:\Users\vanda\RiderProjects\Study\QLSinhVien\obj\Debug\net6.0\ref\QLSinhVien.dll

@@ -1,0 +1,15 @@
+C:\Users\vanda\RiderProjects\Study\demo1\bin\Debug\net6.0\demo1.exe
+C:\Users\vanda\RiderProjects\Study\demo1\bin\Debug\net6.0\demo1.deps.json
+C:\Users\vanda\RiderProjects\Study\demo1\bin\Debug\net6.0\demo1.runtimeconfig.json
+C:\Users\vanda\RiderProjects\Study\demo1\bin\Debug\net6.0\demo1.dll
+C:\Users\vanda\RiderProjects\Study\demo1\bin\Debug\net6.0\demo1.pdb
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\demo1.csproj.AssemblyReference.cache
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\demo1.AssemblyInfoInputs.cache
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\demo1.AssemblyInfo.cs
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\demo1.csproj.CoreCompileInputs.cache
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\demo1.dll
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\refint\demo1.dll
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\demo1.pdb
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\demo1.genruntimeconfig.cache
+C:\Users\vanda\RiderProjects\Study\demo1\obj\Debug\net6.0\ref\demo1.dll
