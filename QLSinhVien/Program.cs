@@ -90,6 +90,6 @@ namespace QLSinhVien
                         break;
                 }
             }
-        }
+        Console.WriteLine("daideptraibodoiqua"); }
     }
 }
